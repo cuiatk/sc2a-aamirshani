@@ -87,7 +87,7 @@ public class Extract {
      *         contain a mention of the username mit.
      *         Twitter usernames are case-insensitive, and the returned set may
      *         include a username at most once.
-     */
+     */ //
     public static Set<String> getMentionedUsers(List<Tweet> tweets) 
     {
     	Pattern pattern = Pattern.compile("@(\\w+|\\W+)");
