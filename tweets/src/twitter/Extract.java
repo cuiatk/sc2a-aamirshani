@@ -106,7 +106,7 @@ public class Extract {
                 }
             mentionedusers.addAll(mentionedusersLowerCase);
         }
-        return mentionedusers;
+        return mentionedusers;//
     }
 
 }
