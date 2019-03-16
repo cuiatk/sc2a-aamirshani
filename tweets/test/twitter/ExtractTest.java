@@ -12,10 +12,10 @@ import java.util.ArrayList;
 import java.util.HashSet;
 
 import org.junit.Test;
-////
+////..
 public class ExtractTest {
 //
-    /*
+    /*//
      * TODO: your testing strategies for these methods should go here.
      * See the ic03-testing exercise for examples of what a testing strategy comment looks like.
      * Make sure you have partitions.
